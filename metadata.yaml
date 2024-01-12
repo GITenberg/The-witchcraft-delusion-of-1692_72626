@@ -1,0 +1,36 @@
+_repo: The-witchcraft-delusion-of-1692_72626
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Poole, William Frederick
+    alias: Poole, William F. (William Frederick)
+    birthdate: 1821
+    deathdate: 1894
+    gutenberg_agent_id: '26144'
+    url: http://www.gutenberg.org/2009/agents/26144
+creator:
+  author:
+    agent_name: Hutchinson, Gov. Thomas
+    gutenberg_agent_id: '56752'
+    url: http://www.gutenberg.org/2009/agents/56752
+description: ''
+gutenberg_issued: '2024-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72626'
+language: en
+pgterms:marc904: https://archive.org/details/witchcraftdelusi00hutc/page/n6/mode/2up
+pgterms:marc905: 20220920203503hutchinson
+pgterms:marc906: '1870'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bDavid Clapp & Son, $c1870.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The witchcraft delusion of 1692
+url: http://www.gutenberg.org/ebooks/72626
