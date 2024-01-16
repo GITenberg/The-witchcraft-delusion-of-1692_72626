@@ -8,12 +8,17 @@ contributor:
     deathdate: 1894
     gutenberg_agent_id: '26144'
     url: http://www.gutenberg.org/2009/agents/26144
+covers:
+- cover_type: archival
+  image_path: 72626-h/images/cover.jpg
 creator:
   author:
     agent_name: Hutchinson, Gov. Thomas
     gutenberg_agent_id: '56752'
     url: http://www.gutenberg.org/2009/agents/56752
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72626#The-witchcraft-delusion-of-1692
 gutenberg_issued: '2024-01-05'
 gutenberg_type: Text
 identifiers:
